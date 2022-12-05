@@ -1,5 +1,4 @@
-
-![Logo](/icon/icon_coloris.png)
+![Logo](https://github.com/Hezaerd/Coloris/blob/main/Icon/icon_coloris.png)
 
 
 # Coloris
@@ -9,6 +8,7 @@
 - Project length : 1 week
 - Team size : 5
 
+
 ## Authors
 
 - [@Anne-Laure](https://github.com/annelcami)
@@ -17,4 +17,3 @@
 - [@Yoan]()
 - [@Louna]()
 - [@Hezaerd](https://github.com/Hezaerd)
-
